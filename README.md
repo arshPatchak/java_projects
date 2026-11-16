@@ -7,3 +7,5 @@ I’m someone who can balance both being outgoing and introverted. I enjoy conne
 - Artificial Intelligence / Machine Learning. 🤖
 - Software Engineering / Systems Design. 👨🏻‍💻
 - Game Development (e.g., Roblox, Unity, Unreal) 🎮
+## Midterm Projects:
+[Midterm Task 1](https://github.com/arshPatchak/java_projects/blob/main/Midterm%20Task/Midterm%20Task1%20Using%202d%20Arrays.pdf)
